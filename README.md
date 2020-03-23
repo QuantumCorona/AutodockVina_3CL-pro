@@ -9,7 +9,13 @@ The Rao [`6LU7`](https://www.rcsb.org/structure/6lu7) 2.16 Å structure (with an
 https://mobile.twitter.com/CrollTristan/status/1240684849670828034
 
 Diamond managed to solve an empty structure with a solvent-accessible pocket [`6YB7`)](https://www.rcsb.org/structure/6yb7), which might be the best (March 22nd 2020) starting point today. (Download link, and data collection / science briefly described here: https://www.diamond.ac.uk/covid-19/for-scientists/Main-protease-structure-and-XChem.html )
-
+Tristan Croll: (https://mobile.twitter.com/CrollTristan/status/1241742943737860097) 
+"In my opinion it's fine (great, really). Hard to wrong at 1.29
+A! Only real site for concern is the very last residue at the C-terminus
+(probably not important in the grand scheme of things). ... OK - one piece of
+advice for that. There are lots of residues with altlocs - not sure if any of
+them impact on the active site, but make sure you choose carefully (i.e. ensure
+the set you choose is self-consistent)."
 
 ## Prior docking
 
