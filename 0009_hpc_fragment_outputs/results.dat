@@ -1,4 +1,3 @@
-# docking_file vina_best_score SMILES
 0008_aj_ligand_0852_out.pdbqt -8.6 [H]c1nc(N([H])S(=O)(=O)c2c([H])c([H])c(C([H])([H])C(=O)N3C([H])([H])C([H])([H])OC([H])(c4c([H])c([H])c(F)c([H])c4[H])C3([H])[H])c([H])c2[H])c([H])c([H])c1[H]
 0008_aj_ligand_0529_out.pdbqt -8.6 [H]c1c([H])c([H])c(C2([H])c3c([H])c([H])c([H])c([H])c3C([H])([H])N(N([H])C(=O)c3sc4c(c3[H])C([H])([H])C([H])([H])C([H])([H])C4([H])[H])C2([H])[H])c([H])c1[H]
 0008_aj_ligand_0331_out.pdbqt -8.6 [H]c1c([H])c([H])c(C2([H])c3c([H])c([H])c([H])c([H])c3C([H])([H])N(C([H])([H])C(=O)N3C([H])([H])C([H])([H])N(S(=O)(=O)c4c([H])c([H])c([H])c([H])c4C#N)C([H])([H])C3([H])[H])C2([H])[H])c([H])c1[H]
