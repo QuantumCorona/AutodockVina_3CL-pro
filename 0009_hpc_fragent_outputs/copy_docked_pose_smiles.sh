@@ -20,7 +20,7 @@ while read l; do
     smiles=` sed -n "${smiles_line}p" ${smiles_file} `
 
     echo "${newname} ${score} ${smiles}" >> results.dat
-    echo cp -a "${f}" "${newname}"
+    cp -a "${f}" "${newname}"
 
 done < aggregate_scores_top200.dat 
 
