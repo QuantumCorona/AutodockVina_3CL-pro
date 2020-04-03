@@ -1,0 +1,9 @@
+set xlabel "Autodock Vina score (kcal/mol)"
+set ylabel "Kernel density estimate"
+
+p "../0009_hpc_fragment_outputs/gbga_all_fragment_scores.dat" u 2:(1.0/100000) smooth kdensity bandwidth 0.2, \
+ "JON-UIO-scores.dat" u 2:(0.1) w impulses
+
+ prefix='JON-UIO-scores'
+ load 'gnuplot-render.gpt' # https://github.com/jarvist/gnuplot-snippets
+
