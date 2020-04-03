@@ -12,3 +12,6 @@ duplicates.
 No post-processing / hand picking has yet been done, these are just by the Vina
 docked best-pose energy. 
 
+See [results.dat](./results.dat) for the results with filename for docked pose,
+vina score, and SMILES. 
+
